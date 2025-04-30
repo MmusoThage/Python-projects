@@ -3,7 +3,7 @@
 
 This project uses a Breast Cancer Dataset to build a machine learning model that classifies tumors as benign or malignant. The model is trained using a Support Vector Machine (SVM), a powerful algorithm for binary classification tasks.
 
-#🧬 Dataset
+##🧬 Dataset
 
 Source: kaggle: https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
 
@@ -11,7 +11,10 @@ Features: 30 numeric features derived from images of fine needle aspirates (FNAs
 
 Target: Diagnosis (M = malignant, B = benign)
 
-#Technologies Used ⚙️
+
+
+
+## Technologies Used ⚙️
 
 Python 🐍
 
@@ -23,9 +26,11 @@ Matplotlib & Seaborn
 
 Jupyter Notebook
 
-#📊 Key Steps
-Data Preprocessing
 
+
+
+## 📊 Key Steps
+Data Preprocessing
 
 Loaded data and handled missing values
 
@@ -51,7 +56,10 @@ Evaluated using accuracy, precision, recall, F1 score, and ROC-AUC
 
 Plotted confusion matrix and ROC curve
 
-#📈 Results
+
+
+
+## 📈 Results
 
 Accuracy: ~98%
 
@@ -60,7 +68,7 @@ Precision (Malignant): High (minimal false positives)
 Recall (Malignant): High (minimal false negatives)
 
 
-#📌 Future Work
+## 📌 Future Work
 
 Add cross-validation for model robustness
 
