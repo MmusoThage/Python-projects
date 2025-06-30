@@ -74,7 +74,7 @@ Add cross-validation for model robustness
 
 
 
-💳 Loan Default Classification Using Logistic Regression and Decision Trees
+# 💳 Loan Default Classification Using Logistic Regression and Decision Trees
 This project uses a loan approval dataset to predict whether a borrower will default or not. Two models are trained — Logistic Regression and Decision Tree Classifier — to assess credit risk based on borrower characteristics.
 
 📂 Dataset
