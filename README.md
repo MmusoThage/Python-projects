@@ -77,7 +77,7 @@ Add cross-validation for model robustness
 # 💳 Loan Default Classification Using Logistic Regression and Decision Trees
 This project uses a loan approval dataset to predict whether a borrower will default or not. Two models are trained — Logistic Regression and Decision Tree Classifier — to assess credit risk based on borrower characteristics.
 
-📂 Dataset
+## 📂 Dataset
 Source: Kaggle
 Loan Approval Prediction Dataset
 
@@ -87,7 +87,7 @@ Income, CIBIL score, asset values, loan term, employment status, etc.
 Target:
 Loan Status (0 = Approved, 1 = Rejected/Defaulted)
 
-⚙️ Technologies Used
+## ⚙️ Technologies Used
 Python 🐍
 
 Pandas & NumPy
@@ -98,7 +98,7 @@ Seaborn & Matplotlib
 
 Jupyter Notebook
 
-📊 Key Steps
+## 📊 Key Steps
 Data Preprocessing
 Loaded and cleaned the dataset
 
@@ -125,7 +125,7 @@ Confusion matrices and classification reports
 
 Visual comparison of model performance
 
-📈 Results
+## 📈 Results
 Decision Tree Accuracy: ~99.5%
 
 Logistic Regression Accuracy: ~92%
@@ -134,7 +134,7 @@ CIBIL Score and Asset Ratios were key predictors
 
 Over-borrowing trends identified via loan-to-income ratio
 
-📌 Future Work
+## 📌 Future Work
 Add k-fold cross-validation
 
 Tune hyperparameters using GridSearchCV
